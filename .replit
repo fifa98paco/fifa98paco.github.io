@@ -1,4 +1,5 @@
-run = "cowsay Configure me!"
+run = "configure me
+"
 
 [nix]
 channel = "stable-23_11"
